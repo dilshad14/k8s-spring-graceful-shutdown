@@ -1,0 +1,1 @@
+# Demo POC to demonstrate how gracefull shutdown of k8s container can eliminate api calls failure during deployment
